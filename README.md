@@ -2,12 +2,12 @@
 
 <h2>👩🏿‍💻 Data Analysis Projects with SQL and Tableau:</h2>
 
-- <b>Google Playstore Analysis</b>
-  - [Comparing Data with SQL]()
-  - [Ratings of Free vs Paid Apps(Tableau)](https://public.tableau.com/views/PlaystoreApps_16893480843880/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- <b>Google Playstore Apps</b>
+  - [Comparing Data with SQL](https://github.com/annnie00/Annie_Portfolio/edit/main/README.md#:~:text=datascience_salaries.sql-,playstore,-.sql)
+  - [Ratings of Free vs Paid Apps](https://public.tableau.com/views/PlaystoreApps_16893480843880/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 - <b>2023 Data Science Salaries</b>
-  - [Comparing Data with SQL]()
-  - [Data Scientists: Remote vs Hybrid vs On-Site](Tableau)()
+  - [Comparing Data with SQL](https://github.com/annnie00/Annie_Portfolio/edit/main/README.md#:~:text=README.md-,datascience_salaries,-.sql)
+  - [Data Scientists: Remote vs Hybrid vs On-Site](https://public.tableau.com/app/profile/annie.vernaza/viz/DataScientistData_16904127772960/Dashboard1)
 - <b>Video Games Analysis</b>
   - [Comparing Data with SQL]()
   - [(Tableau)]()
