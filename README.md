@@ -15,9 +15,8 @@
 
 <h2>👩🏿‍💻 Python Projects: </h2>
 
-- <b>Python Project 1</b>
   - [Car Dataset Analysis](MyFirstNotebook)
-- <b>Python Project 2</b>
   - [Netflix Dataset Analysis](Analysis)
+  - [Police Data Analysis]
 
 
