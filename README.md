@@ -16,8 +16,8 @@
 
 <h2>👩🏿‍💻 Python Projects: </h2>
 
-  - [Car Dataset Analysis](MyFirstNotebook)
-  - [Netflix Dataset Analysis](Analysis)
+  - [Car Dataset Analysis](https://github.com/annnie00/Annie_Portfolio/blob/main/Cars%20Dataset%20Analysis.ipynb)
+  - [Netflix Dataset Analysis](https://github.com/annnie00/Annie_Portfolio/blob/main/Netflix%20Data%20Analysis.ipynb)
   - [Police Data Analysis](https://github.com/annnie00/Annie_Portfolio/edit/main/README.md#:~:text=Data%20Analysis.ipynb-,Police,-Data.ipynb)
 
 
