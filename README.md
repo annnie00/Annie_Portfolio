@@ -1,5 +1,6 @@
-<h1>Hi, I'm Annie (she/her)! <br/><a href="https://github.com/annnie00">Fraud Analyst</a>, <a href="https://www.linkedin.com/in/annie-vernaza-2ba57019b/">Data Analyst </a>
-
+<h1>Hi, I'm Annie (she/her) <br/><a href="https://github.com/annnie00">Fraud Analyst</a>, <a href="https://www.linkedin.com/in/annie-vernaza-2ba57019b/">Data Science Enthusiast </a>
+</h1>
+</a>Welcome friends! I'm a Fraud Analyst expanding upon my data analysis skillset by diving deeper into data manipulation, visualization, and basic predictive analysis. Join me as I embark on this journey, transitioning from fraud detection to data-driven insights.✨  
 <h2>👩🏿‍💻 Data Analysis Projects with SQL and Tableau:</h2>
 
 - <b>Google Playstore Apps</b>
